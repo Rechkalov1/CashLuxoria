@@ -56,7 +56,7 @@ if(mail($to, $subject, $message, $headers)) {
                <nav class="">
                   <ul class="nav-table">
                      <li>
-                        <a class="mesanu-itedm_liank" href="./#hero"> Home </a>
+                        <a class="mesanu-itedm_liank" href="./"> Home </a>
                      </li>
                      <li>
                         <a class="mesanu-itedm_liank" href="about-us.html">Our Journey</a>
@@ -86,7 +86,7 @@ if(mail($to, $subject, $message, $headers)) {
             <nav>
                <ul class="msenu-box-modbile">
                   <li>
-                     <a class="mesanu-itedm_liank" href="./#hero">Home</a>
+                     <a class="mesanu-itedm_liank" href="./">Home</a>
                   </li>
                   <li>
                      <a class="mesanu-itedm_liank"
